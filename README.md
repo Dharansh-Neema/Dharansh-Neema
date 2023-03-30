@@ -8,7 +8,7 @@ I am 2nd Year undergraduate pursuing B.tech in Computer Science. I started with 
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [dharanshneema@gmail.com](mailto:dharanshneema@gmail.com)
-* 🧠  I'm learning React JS
+* 🧠  I'm learning Backend development
 * 🤝  I'm open to collaborating on Backend Project Focused on MERN Stack
 
 ### Skills

@@ -4,7 +4,7 @@ Hi 👋 My name is Dharansh Neema
 Web Developer
 -------------
 
-I am 2nd Year undergraduate pursuing B.tech in Computer Science. I started with HTML but found my passion toward backend development.
+I am 3rd Year undergraduate pursuing B.tech in Computer Science. I started with HTML but found my passion toward backend development.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [dharanshneema@gmail.com](mailto:dharanshneema@gmail.com)

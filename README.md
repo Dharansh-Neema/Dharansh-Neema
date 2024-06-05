@@ -1,18 +1,15 @@
-Hi 👋 My name is Dharansh Neema
-===============================
+# Hi 👋 My name is Dharansh Neema
 
-Web Developer
--------------
+## Web Developer
 
-I am 3rd Year undergraduate pursuing B.tech in Computer Science. I started with HTML but found my passion toward backend development.
+I am 4th Year undergraduate pursuing B.tech in Computer Science. I started with HTML but found my passion toward backend development.
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [dharanshneema@gmail.com](mailto:dharanshneema@gmail.com)
-* 🧠  I'm learning Backend development
-* 🤝  I'm open to collaborating on Backend Project Focused on MERN Stack
+- 🌍  I'm based in India
+- ✉️  You can contact me at [dharanshneema@gmail.com](mailto:dharanshneema@gmail.com)
+- 🧠  I'm learning Backend development
+- 🤝  I'm open to collaborating on Backend Project Focused on MERN Stack and SpringBoot
 
 ### Skills
-
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
@@ -25,7 +22,6 @@ I am 3rd Year undergraduate pursuing B.tech in Computer Science. I started with 
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 </p>
-
 
 ### Socials
 

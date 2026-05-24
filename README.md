@@ -2,7 +2,7 @@
 
 ## AI/ML Engineer
 
-- 🧠  DevOps/MLOps Engineer
+- 🧠  AI Engineer
 - 🌍  I'm based in India
 - ✉️  You can contact me at [dharanshneema@gmail.com](mailto:dharanshneema@gmail.com)
 - 🎓 B.Tech in Computer Science
